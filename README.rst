@@ -1,8 +1,6 @@
 Derick Rethans
 ==============
 
------
-
 Hi there!
 
 I'm Derick, and I'm the primary maintainer of PHP's debugger, `Xdebug <https://github.com/xdebug/xdebug>`_.
